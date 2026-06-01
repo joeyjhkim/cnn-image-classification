@@ -1,0 +1,7 @@
+# Normalize line endings to LF (source had mixed CRLF from Windows MATLAB)
+* text=auto eol=lf
+
+# Binary assets — never touch
+*.bmp binary
+*.png binary
+*.pdf binary

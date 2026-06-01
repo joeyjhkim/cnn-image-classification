@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+slprj/
+*.autosave
+
+# Trained network exports / large artifacts
+*.onnx
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
